@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787913616146",
+    "project_id": "aerotasker-2138c",
+    "storage_bucket": "aerotasker-2138c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787913616146:android:a6ba681da940795c1b21cb",
+        "android_client_info": {
+          "package_name": "com.aeropher.aerotasker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrAL7wEK0AwrM0nq1DRNqDeX9bBNoYW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
